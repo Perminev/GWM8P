@@ -97,4 +97,4 @@ async def __memeslist(ctx):
         await ctx.send(embed=embed)
 
 
-bot.run("MTE2MTY4Njk0OTk4NDIyNzQyOQ.GSPCDu.4cnNzAkd-jUVeldSghBxUBnny7ufZBJDTRMha4")
+bot.run("TOKEN")
