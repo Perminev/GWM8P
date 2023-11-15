@@ -1,0 +1,2 @@
+disnake==2.9.0
+Cybernator==0.6.3
